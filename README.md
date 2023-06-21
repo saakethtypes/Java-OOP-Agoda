@@ -1,5 +1,5 @@
 
-# Project Flow:
+# Role Based Java OOP Application:
 
 Customer: Can view and book flights, hotels, attractions, and other travel-related services like insurance. Can also view their booking history.
 
